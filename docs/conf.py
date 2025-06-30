@@ -1,4 +1,4 @@
-project = 'protonvpn-sign-in-page'
+project = 'protonmail-sign-in-page'
 author = 'Your Name'
 release = '1.0'
 
